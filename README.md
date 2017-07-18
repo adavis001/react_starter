@@ -1,3 +1,5 @@
+This is a starter file for future REACT projects.
+
 My Project
 ---
 
