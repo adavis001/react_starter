@@ -1,4 +1,4 @@
-
+onfig.js
 My Project
 ---
 
@@ -12,3 +12,11 @@ Setup
 ```
 npm install
 ```
+
+
+
+Compile
+---
+
+```
+npm run compile
